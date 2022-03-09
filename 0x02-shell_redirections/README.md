@@ -4,3 +4,7 @@
 
 This is a script file that prints "Hello, world"
 
+## 1-confused_smiley
+
+This is a script that displays a confused smiley
+
