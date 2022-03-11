@@ -6,4 +6,6 @@ This directory contains some bash scripts
 
 1. 0-current_working_directory
 2. 1-listit
+3. 2-bring_me_home
+4. 3-listfiles
 
