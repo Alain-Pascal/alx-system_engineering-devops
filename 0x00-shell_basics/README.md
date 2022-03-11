@@ -13,4 +13,5 @@ This directory contains some bash scripts
 7. 6-firstdirectory
 8. 7-movethatfile
 9. 8-firstdelete
+10. 9-firstdirdeletion
 
