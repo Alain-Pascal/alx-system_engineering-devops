@@ -10,4 +10,5 @@ This directory contains some bash scripts
 4. 3-listfiles
 5. 4-listmorefiles
 6. 5-listfilesdigitonly
+7. 6-firstdirectory
 
