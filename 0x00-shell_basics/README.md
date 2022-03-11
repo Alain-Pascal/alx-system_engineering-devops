@@ -9,4 +9,5 @@ This directory contains some bash scripts
 3. 2-bring_me_home
 4. 3-listfiles
 5. 4-listmorefiles
+6. 5-listfilesdigitonly
 
