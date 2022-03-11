@@ -19,4 +19,5 @@ This directory contains some bash scripts
 13. 12-file_type
 14. 13-symbolic_link
 15. 14-copy_html
+16. 100-lets_move
 
