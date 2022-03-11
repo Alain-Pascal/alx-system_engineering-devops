@@ -23,4 +23,5 @@ This directory contains some bash scripts
 17. 101-clean_emacs
 18. 102-tree
 19. 103-commas
+20. school.mgc
 
