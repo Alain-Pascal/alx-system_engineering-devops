@@ -16,4 +16,5 @@ This directory contains some bash scripts
 10. 9-firstdirdeletion
 11. 10-back
 12. 11-lists
+13. 12-file_type
 
