@@ -48,3 +48,7 @@ Script that deletes all .js files present in the current and all subdirectories
 
 Script that counts the number of all directories and subdirectories in the cwd
 
+## 12-newest_files
+
+Script that displays the 10 newest files in the cwd
+
