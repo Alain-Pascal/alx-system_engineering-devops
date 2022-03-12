@@ -76,3 +76,7 @@ Script that displays lines in `/etc/passwd` file that do not contain pattern "bi
 
 Script that diplays all lines of `/etc/ssh/sshd_config` starting with a letters
 
+## 19-AZ
+
+Script that replaces all characters `A` and `c` from input to `Z` and `e` respectively
+
