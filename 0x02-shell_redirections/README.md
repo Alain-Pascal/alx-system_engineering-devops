@@ -36,3 +36,7 @@ Script that creates a file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 
 Script that writes into `ls_cwd_content` the result of `ls -la`
 
+## 9-duplicate_last_line
+
+Script that duplicates the last line of a file
+
