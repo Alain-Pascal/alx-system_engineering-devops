@@ -44,3 +44,7 @@ Script that duplicates the last line of a file
 
 Script that deletes all .js files present in the current and all subdirectories
 
+## 11-directories
+
+Script that counts the number of all directories and subdirectories in the cwd
+
