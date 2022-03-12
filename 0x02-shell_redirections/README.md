@@ -40,3 +40,7 @@ Script that writes into `ls_cwd_content` the result of `ls -la`
 
 Script that duplicates the last line of a file
 
+## 10-no_more_js
+
+Script that deletes all .js files present in the current and all subdirectories
+
