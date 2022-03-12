@@ -11,4 +11,5 @@ This directory contains some scripts on shell permissions
 * 4-empty
 * 5-execute
 * 6-multiple_permissions
+* 7-everybody
 
