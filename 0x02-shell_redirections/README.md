@@ -54,8 +54,7 @@ Script that displays the 10 newest files in the cwd
 
 ## 13-unique
 
-Script that takes a list of words as input and prints only words that appear
-exactly once
+Script that takes a list of words as input and prints only words that appear exactly once
 
 ## 14-findthatword
 
@@ -63,6 +62,9 @@ Script that displays lines conainting "root" from `/etc/passwd` file
 
 ## 15-countthatword
 
-Script that displays the number of lines that contains "bin" in `/etc/passwd`
-file
+Script that displays the number of lines that contains "bin" in `/etc/passwd` file
+
+## 16-whatsnext
+
+Script that displays lines containing "root" and 3 lines after them in `/etc/passwd` file
 
