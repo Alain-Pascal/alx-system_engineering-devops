@@ -68,3 +68,7 @@ Script that displays the number of lines that contains "bin" in `/etc/passwd` fi
 
 Script that displays lines containing "root" and 3 lines after them in `/etc/passwd` file
 
+## 17-hidethisword
+
+Script that displays lines in `/etc/passwd` file that do not contain pattern "bin"
+
