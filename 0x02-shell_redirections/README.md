@@ -6,9 +6,13 @@ This is a script file that prints "Hello, world"
 
 ## 1-confused_smiley
 
-This is a script that displays a confused smiley
+This is a script file that displays a confused smiley
 
 ## 2-hellofile
 
-This is a file that displays content of /etc/passwd
+This is a script file that displays content of /etc/passwd
+
+## 3-twofiles
+
+This is a script file that displays the content of /etc/passwd and /etc/hosts
 
