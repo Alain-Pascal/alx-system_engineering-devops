@@ -72,3 +72,7 @@ Script that displays lines containing "root" and 3 lines after them in `/etc/pas
 
 Script that displays lines in `/etc/passwd` file that do not contain pattern "bin"
 
+## 18-letteronly
+
+Script that diplays all lines of `/etc/ssh/sshd_config` starting with a letters
+
