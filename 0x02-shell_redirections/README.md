@@ -61,3 +61,8 @@ exactly once
 
 Script that displays lines conainting "root" from `/etc/passwd` file
 
+## 15-countthatword
+
+Script that displays the number of lines that contains "bin" in `/etc/passwd`
+file
+
