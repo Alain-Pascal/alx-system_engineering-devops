@@ -28,3 +28,11 @@ Script that displays first 10 lines of /etc/passwd
 
 Script that displays third line of a file
 
+## 7-file
+
+Script that creates a file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text `Best School`
+
+## 8-cwd_state
+
+Script that writes into `ls_cwd_content` the result of `ls -la`
+
