@@ -12,4 +12,5 @@ This directory contains some scripts on shell permissions
 * 5-execute
 * 6-multiple_permissions
 * 7-everybody
+* 8-James_Bond
 
