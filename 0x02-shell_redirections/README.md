@@ -84,3 +84,7 @@ Script that replaces all characters `A` and `c` from input to `Z` and `e` respec
 
 Script that removes all letters `c` and `C` from input
 
+## 21-reverse
+
+Script that reverses its input
+
