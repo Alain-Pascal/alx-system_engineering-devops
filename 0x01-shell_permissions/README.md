@@ -10,4 +10,5 @@ This directory contains some scripts on shell permissions
 * 3-new_owner
 * 4-empty
 * 5-execute
+* 6-multiple_permissions
 
