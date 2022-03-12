@@ -24,3 +24,7 @@ Script file that displays the last 10 lines of /etc/passwd
 
 Script that displays first 10 lines of /etc/passwd
 
+## 6-third_line
+
+Script that displays third line of a file
+
