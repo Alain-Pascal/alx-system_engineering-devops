@@ -100,3 +100,7 @@ Script that finds all empty files and directories in the cwd and all subdirs
 
 Script that lists all `.gif` files in cwd and all its subdirs
 
+## 102-acrostic
+
+Script that decodes acrostics that use the first letter of each line
+
