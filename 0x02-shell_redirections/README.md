@@ -92,3 +92,7 @@ Script that reverses its input
 
 Script that displays all users and their home dirs, sorted by users based on the `/etc/passwd` file
 
+## 100-empty_casks
+
+Script that finds all empty files and directories in the cwd and all subdirs
+`
