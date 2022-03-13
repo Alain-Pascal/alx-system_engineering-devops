@@ -95,4 +95,8 @@ Script that displays all users and their home dirs, sorted by users based on the
 ## 100-empty_casks
 
 Script that finds all empty files and directories in the cwd and all subdirs
-`
+
+## 101-gifs`
+
+Script that lists all `.gif` files in cwd and all its subdirs
+
