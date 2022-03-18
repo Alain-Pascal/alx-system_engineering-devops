@@ -6,3 +6,4 @@ This directory contains some scrpt files about shell, init files, varables and e
 
 * 0-alias
 * 1-hello_you
+* 2-path
