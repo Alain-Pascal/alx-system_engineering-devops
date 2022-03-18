@@ -1,6 +1,6 @@
 # 0x03-shell_variables_expansions
 
-This directory contains some scrpt files about shell, init files, varables and expansions
+This directory contains some script files about shell, init files, varables and expansions
 
 ## script files
 
@@ -9,3 +9,4 @@ This directory contains some scrpt files about shell, init files, varables and e
 * 2-path
 * 3-paths
 * 4-global_variables
+* 5-local_variables
