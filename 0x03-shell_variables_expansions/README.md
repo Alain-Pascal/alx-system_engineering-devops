@@ -15,3 +15,4 @@ This directory contains some script files about shell, init files, varables and 
 * 8-true_knowledge
 * 9-divide_and_rule
 * 10-love_exponent_breath
+* 11-binary_to_decimal
