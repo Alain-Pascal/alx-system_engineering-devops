@@ -20,3 +20,4 @@ This directory contains some script files about shell, init files, varables and 
 * 13-print_float
 * 100-decimal_to_hexadecimal
 * 101-rot13
+* 102-odd
