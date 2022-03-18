@@ -5,3 +5,4 @@ This directory contains some scrpt files about shell, init files, varables and e
 ## script files
 
 * 0-alias
+* 1-hello_you
