@@ -8,3 +8,4 @@ This directory contains some scrpt files about shell, init files, varables and e
 * 1-hello_you
 * 2-path
 * 3-paths
+* 4-global_variables
