@@ -6,13 +6,16 @@ This directory contains some bash scripts
 
 1. 0-current_working_directory
 
-    >This is a script that prints the absolute path name of the current working directory
+    > This is a script that prints the absolute path name of the current working directory
         
 2. 1-listit
 
-    >This is a script that displays the contents list of current directory
+    > This is a script that displays the contents list of current directory
 
 3. 2-bring_me_home
+
+    > This is a script that changes the working directory to the user's home directory. No shell variables are used
+
 4. 3-listfiles
 5. 4-listmorefiles
 6. 5-listfilesdigitonly
