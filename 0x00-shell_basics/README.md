@@ -19,8 +19,11 @@ This directory contains some bash scripts
 4. 3-listfiles
 
     > This is a script that displays current directory contents in a long format
-    
+
 5. 4-listmorefiles
+
+    > This is a script that displays current directory contents, including hidden files (starting with .), in a long format
+
 6. 5-listfilesdigitonly
 7. 6-firstdirectory
 8. 7-movethatfile
