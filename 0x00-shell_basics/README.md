@@ -5,6 +5,9 @@ This directory contains some bash scripts
 ## script files
 
 1. 0-current_working_directory
+
+        This is a script that prints the absolute path name of the current working directory
+        
 2. 1-listit
 3. 2-bring_me_home
 4. 3-listfiles
