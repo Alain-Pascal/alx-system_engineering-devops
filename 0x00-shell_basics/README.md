@@ -17,6 +17,9 @@ This directory contains some bash scripts
     > This is a script that changes the working directory to the user's home directory. No shell variables are used
 
 4. 3-listfiles
+
+    > This is a script that displays current directory contents in a long format
+    
 5. 4-listmorefiles
 6. 5-listfilesdigitonly
 7. 6-firstdirectory
