@@ -97,4 +97,7 @@ This directory contains some bash scripts
     > The listing ends with a new line
 
 20. school.mgc
+    > This is a magic file that can be used with the command `file` to detect `School` data files
+    >
+    > `School` data files always contain the string `SCHOOL` at offset 0
 
