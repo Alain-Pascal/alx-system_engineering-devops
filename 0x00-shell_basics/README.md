@@ -45,6 +45,9 @@ This directory contains some bash scripts
     > This is a script that deletes the directory `my_first_directory` that is in the `/tmp/` directory
 
 11. 10-back
+
+    > This script changes the working directory to the previous one
+
 12. 11-lists
 13. 12-file_type
 14. 13-symbolic_link
