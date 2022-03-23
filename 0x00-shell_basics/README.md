@@ -25,6 +25,9 @@ This directory contains some bash scripts
     > This is a script that displays current directory contents, including hidden files (starting with .), in a long format
 
 6. 5-listfilesdigitonly
+
+    > This is a script that displays current directory contents in long format, whith user and gropu IDs displayed numerically, and hidden files
+
 7. 6-firstdirectory
 8. 7-movethatfile
 9. 8-firstdelete
