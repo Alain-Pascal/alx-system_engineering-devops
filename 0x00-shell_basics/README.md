@@ -33,6 +33,9 @@ This directory contains some bash scripts
     > This is a script that creaes a directory named `my_first_directory` in the `/tmp/` directory
 
 8. 7-movethatfile
+
+    > This is a script that moves the file `betty` from `/tmp/` to `/tmp/my_first_directory`
+
 9. 8-firstdelete
 10. 9-firstdirdeletion
 11. 10-back
