@@ -26,11 +26,11 @@ This directory contains some bash scripts
 
 6. 5-listfilesdigitonly
 
-    > This is a script that displays current directory contents in long format, whith user and gropu IDs displayed numerically, and hidden files
+    > This is a script that displays current directory contents in long format, with user and group IDs displayed numerically, and hidden files
 
 7. 6-firstdirectory
 
-    > This is a script that creaes a directory named `my_first_directory` in the `/tmp/` directory
+    > This is a script that creates a directory named `my_first_directory` in the `/tmp/` directory
 
 8. 7-movethatfile
 
@@ -78,7 +78,7 @@ This directory contains some bash scripts
 
 18. 102-tree
 
-    > This is a script that creates the direcoties `welcome/`, `welcome/to/` and `welcome/to/school` in the current directory
+    > This is a script that creates the directory `welcome/`, `welcome/to/` and `welcome/to/school` in the current directory
     >
     > Only two spaces (and lines) are used in the script
 
@@ -90,7 +90,7 @@ This directory contains some bash scripts
     >
     > - Files and directories starting with dot (`.`) are listed
     >
-    > - The listing is alpha ordered, except for the direcoties `.` and `..` which are listed at the very beginning
+    > - The listing is alpha ordered, except for the directory `.` and `..` which are listed at the very beginning
     >
     > - Only digits and letters are used to sort; digits come first
     >
