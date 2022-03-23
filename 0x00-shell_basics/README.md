@@ -63,8 +63,11 @@ This directory contains some bash scripts
     > This is a script that creates a symbolic link to `/bin/ls`, named `__ls__`
     >
     > The symbolic link is created in the current working directory
-    
+
 15. 14-copy_html
+
+    > This script copies all the HTML files (with the extension `.html`) from the current working directory to the parent of the working directory, but only copies files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
+
 16. 100-lets_move
 17. 101-clean_emacs
 18. 102-tree
