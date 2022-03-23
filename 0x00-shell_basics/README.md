@@ -69,6 +69,9 @@ This directory contains some bash scripts
     > This script copies all the HTML files (with the extension `.html`) from the current working directory to the parent of the working directory, but only copies files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
 
 16. 100-lets_move
+
+    > This is a script that moves all files beginning with an uppercase letter to the directory `/tmp/u`
+
 17. 101-clean_emacs
 18. 102-tree
 19. 103-commas
