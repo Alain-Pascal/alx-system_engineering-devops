@@ -59,6 +59,11 @@ This directory contains some bash scripts
     > The file `iamafile` will be in the `/tmp` directory when the script will be run
 
 14. 13-symbolic_link
+
+    > This is a script that creates a symbolic link to `/bin/ls`, named `__ls__`
+    >
+    > The symbolic link is created in the current working directory
+    
 15. 14-copy_html
 16. 100-lets_move
 17. 101-clean_emacs
