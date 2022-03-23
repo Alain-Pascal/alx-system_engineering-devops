@@ -75,8 +75,13 @@ This directory contains some bash scripts
 17. 101-clean_emacs
 
     > This script deletes all files in the current working directory that end with the character `~`
-    
+
 18. 102-tree
+
+    > This is a script that creates the direcoties `welcome/`, `welcome/to/` and `welcome/to/school` in the current directory
+    >
+    > Only two spaces (and lines) are used in the script
+
 19. 103-commas
 20. school.mgc
 
