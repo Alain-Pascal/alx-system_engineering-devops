@@ -29,6 +29,9 @@ This directory contains some bash scripts
     > This is a script that displays current directory contents in long format, whith user and gropu IDs displayed numerically, and hidden files
 
 7. 6-firstdirectory
+
+    > This is a script that creaes a directory named `my_first_directory` in the `/tmp/` directory
+
 8. 7-movethatfile
 9. 8-firstdelete
 10. 9-firstdirdeletion
