@@ -86,18 +86,17 @@ This directory contains some bash scripts
 
     > This script lists all the files and directories of the current directory, separated by commas (`,`)
     >
-    > Directory names end with a slash (`/`)
+    > - Directory names end with a slash (`/`)
     >
-    > Files and directories starting with dot (`.`) are listed
+    > - Files and directories starting with dot (`.`) are listed
     >
-    > The listing is alpha ordered, except for the direcoties `.` and `..` which are listed at the very beginning
+    > - The listing is alpha ordered, except for the direcoties `.` and `..` which are listed at the very beginning
     >
-    > Only digits and letters are used to sort; digits come first
+    > - Only digits and letters are used to sort; digits come first
     >
-    > The listing ends with a new line
+    > - The listing ends with a new line
 
 20. school.mgc
     > This is a magic file that can be used with the command `file` to detect `School` data files
     >
     > `School` data files always contain the string `SCHOOL` at offset 0
-
