@@ -83,5 +83,18 @@ This directory contains some bash scripts
     > Only two spaces (and lines) are used in the script
 
 19. 103-commas
+
+    > This script lists all the files and directories of the current directory, separated by commas (`,`)
+    >
+    > Directory names end with a slash (`/`)
+    >
+    > Files and directories starting with dot (`.`) are listed
+    >
+    > The listing is alpha ordered, except for the direcoties `.` and `..` which are listed at the very beginning
+    >
+    > Only digits and letters are used to sort; digits come first
+    >
+    > The listing ends with a new line
+
 20. school.mgc
 
