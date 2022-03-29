@@ -33,8 +33,15 @@ This directory contains some scripts on shell, permissions
     > Script that adds execute permission to the owner and the group owner, and read permission to other users. to the file `hello`
     >
     > The file is the working directory
-    
+
 * 7-everybody
+
+    > A script that adds execute permission to the owner, the group owner and the other users, to the fle `hello`
+    >
+    > The file is the working directory
+    >
+    > No commas are used in the script
+    
 * 8-James_Bond
 * 9-John_Doe
 * 10-mirror_permissions
