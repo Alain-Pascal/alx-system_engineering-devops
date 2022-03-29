@@ -15,8 +15,11 @@ This directory contains some scripts on shell, permissions
 * 2-groups
 
     > This script prints all groups the current user is part of
-    
+
 * 3-new_owner
+
+    > A script that changes the owner of the file `hello` to the user `betty`
+    
 * 4-empty
 * 5-execute
 * 6-multiple_permissions
