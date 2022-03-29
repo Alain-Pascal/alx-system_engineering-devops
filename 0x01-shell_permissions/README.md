@@ -21,6 +21,9 @@ This directory contains some scripts on shell, permissions
     > A script that changes the owner of the file `hello` to the user `betty`
     
 * 4-empty
+
+    > Script that creates an empty file called `hello`
+    
 * 5-execute
 * 6-multiple_permissions
 * 7-everybody
