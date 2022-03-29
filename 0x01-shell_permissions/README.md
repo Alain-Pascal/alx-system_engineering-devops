@@ -63,8 +63,13 @@ This directory contains some scripts on shell, permissions
     > File is the working directory
     >
     > No commas are used in the script
-    
+
 * 10-mirror_permissions
+
+    > Script that sets the mode of the file `hello` the same as `olleh`'s mode
+    >
+    > Both files are in the working directory
+    
 * 11-directories_permissions
 * 12-directory_permissions
 * 13-change_group
