@@ -101,6 +101,7 @@ This directory contains some scripts on shell, permissions
     > Script that changes the owner of the file `hello` to `betty` only if it is owned by the user `guillaume`
     >
     > File is the working directory
-    
+
 * 103-Star_Wars
 
+    > This is a script that plays the StarWars IV episode int he terminal
