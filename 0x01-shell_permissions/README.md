@@ -27,8 +27,13 @@ This directory contains some scripts on shell, permissions
 * 5-execute
 
     > This script adds execute permission to the owner of the file `hello`
-    
+
 * 6-multiple_permissions
+
+    > Script that adds execute permission to the owner and the group owner, and read permission to other users. to the file `hello`
+    >
+    > The file is the working directory
+    
 * 7-everybody
 * 8-James_Bond
 * 9-John_Doe
