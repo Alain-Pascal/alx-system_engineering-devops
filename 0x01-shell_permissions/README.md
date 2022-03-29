@@ -25,6 +25,9 @@ This directory contains some scripts on shell, permissions
     > Script that creates an empty file called `hello`
     
 * 5-execute
+
+    > This script adds execute permission to the owner of the file `hello`
+    
 * 6-multiple_permissions
 * 7-everybody
 * 8-James_Bond
