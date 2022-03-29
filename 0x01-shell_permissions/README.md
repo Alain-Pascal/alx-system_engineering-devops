@@ -95,7 +95,12 @@ This directory contains some scripts on shell, permissions
     > A script that changes the owner and the group owner of `_hello` to `vincent` and `staff` respectively
     >
     > File is a symbolic link and in the working directory
-    
+
 * 102-if_only
+
+    > Script that changes the owner of the file `hello` to `betty` only if it is owned by the user `guillaume`
+    >
+    > File is the working directory
+    
 * 103-Star_Wars
 
