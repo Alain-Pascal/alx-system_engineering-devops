@@ -53,8 +53,17 @@ This directory contains some scripts on shell, permissions
     > File is the working directory
     >
     > No commas are used in the script
-    
+
 * 9-John_Doe
+
+    > A script that sets the mode of the file `hello` to this:
+    >
+    > ```-rwxr-x-wx 1 julien 23 sep 20 14:25 hello```
+    >
+    > File is the working directory
+    >
+    > No commas are used in the script
+    
 * 10-mirror_permissions
 * 11-directories_permissions
 * 12-directory_permissions
