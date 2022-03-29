@@ -79,8 +79,13 @@ This directory contains some scripts on shell, permissions
 * 12-directory_permissions
 
     > Script that creates a directory called `my_dir` with permissions 751 in the working directory
-    
+
 * 13-change_group
+
+    > A script that changes the group owner to `school` for the file `hello`
+    >
+    > File is in the working directory
+    
 * 100-change_owner_and_group
 * 101-symbolic_link_permissions
 * 102-if_only
