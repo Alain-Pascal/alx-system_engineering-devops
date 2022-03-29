@@ -7,8 +7,11 @@ This directory contains some scripts on shell, permissions
 * 0-iam_betty
 
     > This script switches the current user to the user `betty`
-    
+
 * 1-who_am_i
+
+    > Script that prints the effective username of the current user
+
 * 2-groups
 * 3-new_owner
 * 4-empty
