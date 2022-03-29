@@ -41,8 +41,19 @@ This directory contains some scripts on shell, permissions
     > The file is the working directory
     >
     > No commas are used in the script
-    
+
 * 8-James_Bond
+
+    > This script sets the permission to the file `hello` as follows:
+    >
+    > * Owner: no permission at all
+    > * Group: no permission at all
+    > * Other usersL all the permissions
+    >
+    > File is the working directory
+    >
+    > No commas are used in the script
+    
 * 9-John_Doe
 * 10-mirror_permissions
 * 11-directories_permissions
