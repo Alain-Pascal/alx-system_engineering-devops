@@ -69,8 +69,13 @@ This directory contains some scripts on shell, permissions
     > Script that sets the mode of the file `hello` the same as `olleh`'s mode
     >
     > Both files are in the working directory
-    
+
 * 11-directories_permissions
+
+    > This script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+    >
+    > Regular files are not to be changed
+    
 * 12-directory_permissions
 * 13-change_group
 * 100-change_owner_and_group
