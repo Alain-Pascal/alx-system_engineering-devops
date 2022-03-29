@@ -13,6 +13,9 @@ This directory contains some scripts on shell, permissions
     > Script that prints the effective username of the current user
 
 * 2-groups
+
+    > This script prints all groups the current user is part of
+    
 * 3-new_owner
 * 4-empty
 * 5-execute
